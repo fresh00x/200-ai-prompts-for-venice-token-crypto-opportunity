@@ -1,4 +1,4 @@
-# 200-ai-prompts-for-venice-token-crypto-opportunity
+# 200 AI Prompts for Venice Token Crypto Opportunity
 
 Unlock the full potential of your Venice Token investment with this comprehensive pack of 200 unique and engaging AI-generated prompts! Tailored to the Venice Token crypto opportunity, these prompts a
 
@@ -6,7 +6,7 @@ Unlock the full potential of your Venice Token investment with this comprehensiv
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 5 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Unlock the full potential of your Venice Token investment with this comprehensiv
 ## Sample
 
 ```json
-Keys: title, description, price
+"What is the future of Venice Token?"
 ```
 
 ## Usage
